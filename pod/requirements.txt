@@ -1,0 +1,7 @@
+pandas==0.25.1
+numpy==1.17.2
+python-dotenv==0.10.2
+jupyterlab-gitlab==0.2.0
+widgetsnbextension
+matplotlib
+jupyterlab-git==0.8.1
