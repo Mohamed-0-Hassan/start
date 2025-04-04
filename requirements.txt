@@ -4,4 +4,4 @@ python-dotenv==0.10.2
 jupyterlab-gitlab==0.2.0
 widgetsnbextension
 matplotlib
-jupyterlab-git==0.8.1
+jupyterlab-git==0.51.1
